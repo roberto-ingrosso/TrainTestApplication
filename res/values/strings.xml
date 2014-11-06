@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Arklow - Shankill</string>
+    <string name="station_header_title">DEPARTING FROM %s</string>
+    <string name="station_data_item_info_row_1" formatted="false">From %s (%s) to %s (%s)</string>
+    <string name="station_data_item_info_row_2" formatted="false">%s - Status: %s</string>
+    <string name="no_last_location">Last location unknown</string>
+    <string name="station_data_item_info_row_3" formatted="false">Arriving %s (%s minutes late)</string>
+    <string name="no_departing_trains">No departing trains in the next 90 minutes</string>
+    <string name="error_message">Connection error</string>
+    <string name="no_ongoing_trains">No ongoing trains</string>
+    <string name="ongoing_trains">ONGOING TRAINS</string>
+    <string name="current_trains_item_info_row_1">Train %s</string>
+    <string name="current_trains_item_label_r">RUNNING</string>
+    <string name="current_trains_item_label_n">NOT YET RUNNING</string>
+    <string name="train_movements_header_title">MOVEMENTS FOR TRAIN %s</string>
+    <string name="no_train_movements">No train movements</string>
+    <string name="train_movement_item_info_row_1" formatted="false">Location %s (%s)</string>
+    <string name="scheduled_departure">Scheduled departure at %s</string>
+    <string name="departure">Departed at %s</string>
+    <string name="scheduled_arrival">Scheduled arrival at %s</string>
+
+</resources>
